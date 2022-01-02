@@ -32,4 +32,17 @@ As it turns out the percentages of votes cast per county was not even very close
 
 ![image](https://user-images.githubusercontent.com/93171738/147887874-caed54d2-66a1-43f3-9b22-6dccf0878761.png)
 
-5. 
+5. Once armed with the information above it was easy to see that Diana DeGette was the clear winner of this years political election for the three counties that particiapted in the voting.
+
+### Election Audit Summary
+
+It is our humble opinion that the script that we used to determine the county breakdown of votes, the percentage of votes cast per candidate and ultimately, determine the winner of the election by total votes and winning percentage of total votes cast, can be used in a wider range of political elections throughout the country. By making small modifications to the script it can easly be adapted for greater use. 
+
+The two modifications we would recommend would be...
+```
+1. Updating the counties to be considered in the election results, and..
+2. Updating the candidates in the election for the given counties. 
+
+```
+
+It is our sincere wish... 
