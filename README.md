@@ -22,3 +22,8 @@ Here we can see how we used our code to loop over the data to retrieve the total
 
 ![image](https://user-images.githubusercontent.com/93171738/147887661-65da366a-ec42-46c8-8301-8bf163efc2ff.png)
 
+3. By determing the total vote count per county we were able to easily extract which county recieved the highest number of votes. As we could imagine, it was no surprise to see that the county of Denver was the county that recieved the highest number of votes. 
+
+![image](https://user-images.githubusercontent.com/93171738/147887721-70deeab8-9f3e-4c88-9140-9bdf1171fa13.png)
+
+As it turns out the percentages of votes cast per county was not even very close with 'Denver' taking approx. 83% of the total votes cast.
