@@ -27,3 +27,9 @@ Here we can see how we used our code to loop over the data to retrieve the total
 ![image](https://user-images.githubusercontent.com/93171738/147887721-70deeab8-9f3e-4c88-9140-9bdf1171fa13.png)
 
 As it turns out the percentages of votes cast per county was not even very close with 'Denver' taking approx. 83% of the total votes cast.
+
+4. We also wanted to see if we could determine the amount of votes each candidate recieved and calculate the percentage of the whole of votes cast for the main contenders in the election. To do this we used code that was very similar to the code we used to determine the county breakdown results. As such, we see that candidate Diana DeGette recived a total of 272,892 votes, which calculates to a little more than 73% of the total votes cast. 
+
+![image](https://user-images.githubusercontent.com/93171738/147887874-caed54d2-66a1-43f3-9b22-6dccf0878761.png)
+
+5. 
