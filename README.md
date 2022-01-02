@@ -42,7 +42,6 @@ The two modifications we would recommend would be...
 ```
 1. Updating the counties to be considered in the election results, and..
 2. Updating the candidates in the election for the given counties. 
-
 ```
 
-It is our sincere wish... 
+It is our sincere wish that this information proves useful not only for the election we performed the acutal analysis on but also, for further elections throughout the country. 
